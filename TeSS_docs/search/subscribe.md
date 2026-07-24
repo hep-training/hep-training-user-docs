@@ -1,6 +1,6 @@
 # Subscribing to notifications
 
-TeSS also provides a subscription feature to help users to stay informed about courses, workshops and conferences of interest to them. 
+HEP Training also provides a subscription feature to help users to stay informed about courses, workshops and conferences of interest to them. 
 The service may be customised by selecting the relevant filters, and initiated via the subscribe button. 
 Users may choose to receive email notifications about upcoming events, or have them automatically added to their preferred calendar application.
 

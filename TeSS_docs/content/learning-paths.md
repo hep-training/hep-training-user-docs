@@ -1,17 +1,17 @@
-# Learning paths in TeSS
+# Learning paths in HEP Training
 
 ## What is a learning path?
 
 A learning path is a pathway that guides learners through a set of modules (courses/materials) to be undertaken progressively (from lower- to higher-order thinking skills) to acquire the desired knowledge and skills on a subject by the end of the pathway.
 
-```{topic} Editorial process for Learning Paths in TeSS
+```{topic} Editorial process for Learning Paths in HEP Training
 There are several roles associated with learning paths, see the [Definitions page](../overview/definitions).
 
 Before registering a learning path, a training provider must:
 
 1. Assign a learning path curator (owner).
-2. Contact the TeSS team to assign the learning path curator role to their account.
-3. Complete your internal editorial processes (if any) before you start registering the learning paths on TeSS.
+2. Contact the HEP Training team to assign the learning path curator role to their account.
+3. Complete your internal editorial processes (if any) before you start registering the learning paths on HEP Training.
 
 After these tasks are completed:
 
@@ -42,7 +42,7 @@ To register a learning path you need to follow the three steps described below:
 2. Create a learning path topic and add materials to it (repeat for each topic)
 3. Register a learning path and add learning path topics to it
 
-To register a learning path and its topics, first log in. The 'Register learning path' button will become visible on the learning paths page, and the 'Create topic' button will become visible on the learning paths topic page. If you do not see these buttons, contact tess-support@googlegroups.com to request permission.
+To register a learning path and its topics, first log in. The 'Register learning path' button will become visible on the learning paths page, and the 'Create topic' button will become visible on the learning paths topic page. If you do not see these buttons, contact HEP Training-support@googlegroups.com to request permission.
 
 The three steps to register a learning path are described in full detail below.
 
@@ -105,11 +105,11 @@ After you have created all your topics, and added training materials to them, yo
 7. When you have finished, click the 'Register learning path' button.
 
 ### Managing collaborators
-Collaborators are TeSS users who can edit a learning path or topic after it has been created. Only the learning path or topic owner can add and remove collaborators. To add a collaborator:
+Collaborators are HEP Training users who can edit a learning path or topic after it has been created. Only the learning path or topic owner can add and remove collaborators. To add a collaborator:
 
 1. Navigate to the page for that learning path or topic.
 2. Click the 'Collaborators' button at the top-right of the page.
-3. Start to type the name or username of the collaborator you wish to add and select them. The collaborator needs to be a registered user of TeSS.
+3. Start to type the name or username of the collaborator you wish to add and select them. The collaborator needs to be a registered user of HEP Training.
 4. Repeat for any additional collaborators.
 5. When you have finished, click the 'Done' button.
 
@@ -125,13 +125,13 @@ If you wish to delete the learning path or topic, use the 'Delete' button next t
 
 
 ## Viewing learning paths
-Learning paths can be browsed and searched in TeSS. They are organised by topic.
+Learning paths can be browsed and searched in HEP Training. They are organised by topic.
 
-1. To view the learning paths, click 'Learning paths' in the main menu. (Tip: To view a learning path you do not need to be logged in to TeSS.)
+1. To view the learning paths, click 'Learning paths' in the main menu. (Tip: To view a learning path you do not need to be logged in to HEP Training.)
 2. To browse all topics, click the 'Manage topics' button on the top-right.
 3. Alternatively, you can click in the search box, type your query and press Enter.
 4. Click to view a learning path. Read the summary box. The details of the included training materials appear below; click each item to open it. Information about the content provider appears on the left.
-5. To create a personal collection of your favourite learning paths, click the star icon at the top of each learning path to add them to a list. You can view your starred resources later by clicking the user icon at the top-right of the screen then 'My stars'. To use the star feature you need to be a registered TeSS user.
+5. To create a personal collection of your favourite learning paths, click the star icon at the top of each learning path to add them to a list. You can view your starred resources later by clicking the user icon at the top-right of the screen then 'My stars'. To use the star feature you need to be a registered HEP Training user.
 
 
 ### Viewing topics

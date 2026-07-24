@@ -1,19 +1,19 @@
 # Provider account creation
 
 Content providers are entities (such as academic institutions, non-profit organisations, portals) that provide training materials of relevance to your community. 
-Every event or training material in TeSS is associated with precisely one content provider. 
+Every event or training material in HEP Training is associated with precisely one content provider. 
 
 ```{admonition} Each content provider has the following properties:
 :class: note
 * Title, URL, description, logo, keywords
 * One of three types: Organisation, Project, Portal
-* One or more approved editors (TeSS user accounts)
-* In ELIXIR TeSS: one ELIXIR national node
+* One or more approved editors (HEP Training user accounts)
+* In ELIXIR HEP Training: one ELIXIR national node
 * In Taxila: Content providers are called 'Partners' and have the same properties
 ```
 
 ## Viewing content providers
-Content providers can be browsed and searched in TeSS.
+Content providers can be browsed and searched in HEP Training.
 
 To browse content providers:
 
