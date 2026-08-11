@@ -1,8 +1,8 @@
 # Sources
 
-Owners and editors of content providers in TeSS can register and manage Sources to be automatically ingested. A source consists of a URL for TeSS to fetch, and an "ingestion method" - which hints to TeSS how the contents of the URL should be processed.
+Owners and editors of content providers in HEP Training can register and manage Sources to be automatically ingested. A source consists of a URL for HEP Training to fetch, and an "ingestion method" - which hints to HEP Training how the contents of the URL should be processed.
 
-Once registered, a source will need to be approved by an administrator before it is active, but can be tested to see exactly what metadata TeSS can extract from the source.
+Once registered, a source will need to be approved by an administrator before it is active, but can be tested to see exactly what metadata HEP Training can extract from the source.
 
 To register a source, click the "Sources" tab on your content provider page, or if you have not yet registered a content provider, see our page [Provider account creation](../accounts/provider).
 
@@ -23,7 +23,15 @@ Currently available **admin-managed** ingestion methods:
 :::
 ::::
 
-For other methods, please [contact us](https://tess.elixir-europe.org/about/us#contact) to discuss how to register your content automatically in TeSS.
+For other methods, please [contact us](https://heptraining.cern.ch/about/us#contact) to discuss how to register your content automatically in HEP Training.
+
+## Other ingestion methods
+
+The HEP Training team may be able to support other source formats and write an ingestion method for them:
+
+- **RSS feeds**: many websites publish recent posts in a standard news-feed format that can be parsed.
+- **Git repositories**: if training resources are developed in GitHub or another Git repository, HEP Training can clone the repository and extract resource information. A metadata file in YAML format may be required.
+- **Other structured formats**: XML, JSON, CSV, YAML or another metadata export may also be suitable for ingestion after discussion with the HEP Training team.
 
 ## Google Sheets
 
@@ -43,6 +51,6 @@ To prepare and register a spreadsheet of materials to ingest:
   ```
   ````
 5. One row corresponds to one training material, you can add as many rows/materials as you want.
-6. Once your Google Sheets spreadsheet is ready, give the URL to your TeSS administrator and ask them to use it for the Materials Ingestion Method: CSV File and Google Spreadsheet.
+6. Once your Google Sheets spreadsheet is ready, give the URL to your HEP Training administrator and ask them to use it for the Materials Ingestion Method: CSV File and Google Spreadsheet.
 
-TeSS will scan your spreadsheet once per day to ingest any new and changed training materials.
+HEP Training will scan your spreadsheet once per day to ingest any new and changed training materials.

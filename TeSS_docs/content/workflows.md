@@ -1,8 +1,8 @@
-# Workflows in TeSS
+# Workflows in HEP Training
 
-## What are workflows in TeSS?
+## What are workflows in HEP Training?
 
-Training workflows in TeSS are visual, step-by-step protocols that allow users to navigate materials in TeSS in topic- or task-related ways.
+Training workflows in HEP Training are visual, step-by-step protocols that allow users to navigate materials in HEP Training in topic- or task-related ways.
 For example, they may encapsulate typical stages of particular kinds of data analysis (protein sequence analysis, structure analysis, etc.), where each stage/node in the workflow represents a given analysis step and links to the corresponding training resources. Workflows are visible to the public by default.
 
 ````{margin}
@@ -12,9 +12,9 @@ For example, they may encapsulate typical stages of particular kinds of data ana
 ```
 ````
 
-```{admonition} Examples of workflows can be seen on the following instances of TeSS:
+```{admonition} Examples of workflows can be seen on the following instances of HEP Training:
 :class: seealso
-* [Workflows on ELIXIR TeSS](https://tess.elixir-europe.org/workflows) (deprecated)
+* [Workflows on ELIXIR HEP Training](https://heptraining.cern.ch/workflows) (deprecated)
 * [Workflows on PaN Training](https://pan-training.eu/workflows)
 ```
 
@@ -42,11 +42,11 @@ Alternatively, you can 'fork' an existing workflow; in other words, take a copy 
 
 ### Managing collaborators
 
-Collaborators are TeSS users who can edit a workflow after it has been created. Only the workflow owner can add and remove collaborators. To add a collaborator:
+Collaborators are HEP Training users who can edit a workflow after it has been created. Only the workflow owner can add and remove collaborators. To add a collaborator:
 
 1. Navigate to the page for that workflow.
 2. Click the ‘Collaborators’ button at the top-right of the page.
-3. Start to type the name or username of the collaborator you wish to add and select them. The collaborator needs to be a registered user of TeSS.
+3. Start to type the name or username of the collaborator you wish to add and select them. The collaborator needs to be a registered user of HEP Training.
 4. Repeat for any additional collaborators.
 5. When you have finished, click the ‘Done’ button.
 
@@ -63,9 +63,9 @@ To update a workflow, you need to be the owner or a collaborator:
 
 ## Viewing workflows
 
-Workflows can be browsed and searched in TeSS. They are organised by scientific topic, target audience, keyword, licence, difficulty level, author and contributor.
+Workflows can be browsed and searched in HEP Training. They are organised by scientific topic, target audience, keyword, licence, difficulty level, author and contributor.
 
-1. To view the workflows, click ‘Workflows’ in the main menu. (Tip: To view a workflow you do not need to be logged in to TeSS.)
+1. To view the workflows, click ‘Workflows’ in the main menu. (Tip: To view a workflow you do not need to be logged in to HEP Training.)
 2. Click to view a workflow. Read the summary box on the right. The details of the included nodes appear in the main area; click each item to open it. 
-3. To create a personal collection of your favourite workflows, click the star icon at the top of each workflow to add them to a list. You can view your starred resources later by clicking the user icon at the top-right of the screen then 'My stars'. To use the star feature you need to be a registered TeSS user.
+3. To create a personal collection of your favourite workflows, click the star icon at the top of each workflow to add them to a list. You can view your starred resources later by clicking the user icon at the top-right of the screen then 'My stars'. To use the star feature you need to be a registered HEP Training user.
 4. To embed the workflow in your website, click the 'Embed' button at the top-left. Copy the the snippet and paste it into your HTML/markdown. The width and height of the embedded workflow can be adjusted by changing the parameters on the iframe element.

@@ -1,6 +1,6 @@
 # Manually add events and materials
 
-Resources may be added manually to TeSS.
+Resources may be added manually to HEP Training.
 
 To do so, first [register for a free account](../accounts/user). Members of academic institutions may be able to log-in via LS-Login.
 

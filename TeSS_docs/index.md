@@ -1,8 +1,8 @@
-# Welcome to the TeSS Platform documentation!
+# Welcome to the HEP Training documentation!
 
-This documentation is intended to provide help and information on how to use a training registry created on the TeSS platform.
+This documentation is intended to provide help and information on how to use a training registry created on the HEP Training platform.
 
-## About TeSS
+## About HEP Training
 
 
 ::::{grid} 1 1 2 3
@@ -10,13 +10,13 @@ This documentation is intended to provide help and information on how to use a t
 :gutter: 3
 
 :::{grid-item-card}
-:link: overview/tess
+:link: overview/HEP Training
 :link-type: doc
 
 {fas}`panorama;sd-text-secondary` **Introduction**
 ^^^
 
-What is TeSS: Training e-Support Service
+What is HEP Training
 :::
 
 :::{grid-item-card}
@@ -26,7 +26,7 @@ What is TeSS: Training e-Support Service
 {fas}`earth-europe;sd-text-secondary` **Global usage**
 ^^^
 
-Global usages of the TeSS Platform
+Global usages of HEP Training
 :::
 
 :::{grid-item-card}
@@ -87,7 +87,7 @@ Automatically or manually register events, materials or learning paths
 {fas}`boxes-stacked;sd-text-secondary` **Space creation**
 ^^^
 
-When to set up a TeSS space, how to credit other spaces' materials
+When to set up a HEP Training space, how to credit other spaces' materials
 :::
 
 :::{grid-item-card}
@@ -127,7 +127,7 @@ The authors acknowledge the [OSCARS project](https://www.oscars-project.eu/proje
 :::
 ::::
 
-TeSS has been funded by:
+TeSS, the HEP Training base project, has been funded by:
 
 - [BioFAIR](https://biofair.uk/) Short Term Funding Award GP312
 - European Commission, Horizon 2020 Research Infrastructures programme (ELIXIR-EXCELERATE, [grant agreement number 676559](https://cordis.europa.eu/project/rcn/198519_en.html));

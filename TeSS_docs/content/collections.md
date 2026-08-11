@@ -1,21 +1,21 @@
-# Collections in TeSS
+# Collections in HEP Training
 
 ## What is a collection?
 
-Collections can be thought of as folders in which users may collect particular training materials or events, from the full catalogue available within TeSS to address their specific training needs. Collections are visible to the public by default. 
+Collections can be thought of as folders in which users may collect particular training materials or events, from the full catalogue available within HEP Training to address their specific training needs. Collections are visible to the public by default. 
 The Collections feature must be enabled by the site administrator.
 
 ````{margin}
 ```{image} ../images/content/collections-screenshot.png
-:alt: Screenshot of collection on ELIXIR TeSS
+:alt: Screenshot of collection on ELIXIR HEP Training
 :width: 200px
 ```
 ````
 
 
-```{admonition} Examples of collections can be seen on the following instances of TeSS:
+```{admonition} Examples of collections can be seen on the following instances of HEP Training:
 :class: seealso
-* [Collections on ELIXIR TeSS](https://tess.elixir-europe.org/collections)
+* [Collections on HEP Training](https://heptraining.cern.ch/collections)
 * [Collections on Taxila](https://taxila.nl/collections)
 ```
 
@@ -36,11 +36,11 @@ Steps to create a collection:
 
 ### Managing collaborators
 
-Collaborators are TeSS users who can edit a collection after it has been created. Only the collection owner can add and remove collaborators. To add a collaborator:
+Collaborators are HEP Training users who can edit a collection after it has been created. Only the collection owner can add and remove collaborators. To add a collaborator:
 
 1. Navigate to the page for that collection.
 2. Click the ‘Collaborators’ button at the top-right of the page.
-3. Start to type the name or username of the collaborator you wish to add and select them. The collaborator needs to be a registered user of TeSS.
+3. Start to type the name or username of the collaborator you wish to add and select them. The collaborator needs to be a registered user of HEP Training.
 4. Repeat for any additional collaborators.
 5. When you have finished, click the ‘Done’ button.
 
@@ -57,10 +57,10 @@ To update a collection, you need to be the owner or a collaborator:
 
 ## Viewing collections
 
-Collections can be browsed and searched in TeSS. They are organised by keyword.
+Collections can be browsed and searched in HEP Training. They are organised by keyword.
 
-1. To view the collections, click ‘Collections’ in the main menu. (Tip: To view a collection you do not need to be logged in to TeSS.)
+1. To view the collections, click ‘Collections’ in the main menu. (Tip: To view a collection you do not need to be logged in to HEP Training.)
 2. Click to view a collection. Read the summary box. The details of the included training materials and events appear in two tabs; click each item to open it. Information about the collection appears on the left.
 3. Events that have passed will not be shown by default. If there are passed events, this is indicated by an asterisk next to the number of events.  
 
-Collections can also be viewed in a TeSS [widget](../developers/code-data). See an example of a [widget with materials in a collection](https://elixirtess.github.io/TeSS_widgets/#materials-collection).
+Collections can also be viewed in a HEP Training [widget](../developers/code-data). See an example of a [widget with materials in a collection](https://elixirtess.github.io/TeSS_widgets/#materials-collection).

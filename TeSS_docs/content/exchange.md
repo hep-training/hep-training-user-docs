@@ -1,7 +1,7 @@
 # Exchange content
 
-TeSS can import content from a range of external sources. 
-When the source is also based on TeSS, there are additional features which allow you to customise and automate the exchange, thanks to the [mTeSS-X project](../overview/mtess-x).
+HEP Training can import content from a range of external sources. 
+When the source is also based on HEP Training, there are additional features which allow you to customise and automate the exchange, thanks to the [mTeSS-X project](../overview/mtess-x).
 
 ```{image} ../images/content/graphic-exchange.svg
 :alt: Graphic of multi-spaces
@@ -44,6 +44,7 @@ The following filters are available for events only:
 ## How do I set up an automated exchange?
 
 You may take the following steps to setup automated exchange between two TeSS based catalogues (a **source** and a **destination**):
+You may take the following steps to setup automated exchange between two HEP Training based catalogues (a **source** and a **destination**):
 
 1) Ensure that you have the correct permissions. To set up the exchange of materials, you need to be a site **admin**, or the **owner of a 'content provider'**, of the destination TeSSHub (where the content should end up). You are the owner of content providers that you create.
 2) Go to the source TeSSHub instance (where the training should come from) and understand what metadata (set of filters) is used there to describe the particular set of training content that should be exchanged. 

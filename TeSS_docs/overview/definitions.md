@@ -1,16 +1,16 @@
 # Definitions
 
-Definitions of terms and user roles used across TeSS.
+Definitions of terms and user roles used across HEP Training.
 
 ## Overall terms and concepts 
 
-Definition of common terms used across TeSS, sorted alphabetically.
+Definition of common terms used across HEP Training, sorted alphabetically.
 
 ```{glossary}
 
 Collection
-    Collections can be thought of as folders in which users may collect particular training materials or events, from the full catalogue available within TeSS to address their specific training needs. 
-    See [Collections in TeSS](../content/collections) for details.
+    Collections can be thought of as folders in which users may collect particular training materials or events, from the full catalogue available within HEP Training to address their specific training needs. 
+    See [Collections in HEP Training](../content/collections) for details.
 
 Content provider
     Entities (such as academic institutions, non-profit organisations, portals) that provide training materials of relevance.
@@ -18,33 +18,33 @@ Content provider
 e-Learning
     e-Learning materials are curated materials focused on e-Learning. 
 
-ELIXIR TeSS Portal
-    The [ELIXIR TeSS](https://tess.elixir-europe.org/) portal, the training registry for Europe's distributed infrastructure for life-science data, is built using the TeSS Platform.
+HEP Training Portal
+    The [HEP Training](https://heptraining.cern.ch/) portal, the training registry for Europe's distributed infrastructure for life-science data, is built using the HEP Training Platform.
 
 Event
-    An event in TeSS is a link to a single training event sourced by a provider along with description and other meta information (e.g. date, location, audience, ontological categorization, keywords). 
-    In SciLifeLab TeSS, this is called a Course.  <br>
+    An event in HEP Training is a link to a single training event sourced by a provider along with description and other meta information (e.g. date, location, audience, ontological categorization, keywords). 
+    In SciLifeLab HEP Training, this is called a Course.  <br>
     Training events can be added manually or automatically harvested from a provider's website.
 
-Exchange (TeSS-X)
-    If a community runs its own instance then a TeSS-X plugin sets up an exchange with other instances.
-    In the mTeSS-X project, we will show how several TeSS-instance catalogues exchange nominated training resources. 
+Exchange (HEP Training-X)
+    If a community runs its own instance then a HEP Training-X plugin sets up an exchange with other instances.
+    In the mTeSS-X project, we will show how several HEP Training-instance catalogues exchange nominated training resources. 
     See [What do we mean by eXchange?](https://elixirtess.github.io/mTeSS-X/exchange) on the mTeSS-X project website for details.
 
 Instance
-    One installation of the TeSS Platform, on a server, managed by a technical administrator. An instance may have multiple spaces, if this option has been enabled by the administrator.  <br>
-    Examples of TeSS instances can be viewed on the [global usages page](global).
+    One installation of the HEP Training Platform, on a server, managed by a technical administrator. An instance may have multiple spaces, if this option has been enabled by the administrator.  <br>
+    Examples of HEP Training instances can be viewed on the [global usages page](global).
 
 Learning path
     A a pathway that guides learners through a set of modules (courses/materials) to be undertaken progressively (from lower- to higher-order thinking skills) to acquire the desired knowledge and skills on a subject by the end of the pathway. 
-    See [Learning paths in TeSS](../content/learning-paths) for details.
+    See [Learning paths in HEP Training](../content/learning-paths) for details.
 
 mTeSS-X 
     The [mTeSS-X Project](mtess-x) (Multi-space Training e-Support System with eXchange) overcomes the fragmentation of training resources across Research Infrastructures and the European Science Clusters.
-    The project aims to enhance existing TeSS-based training registries or catalogues like [ELIXIR TeSS (life sciences)](https://tess.elixir-europe.org/) and [PaN-Training (photon and neutron)](https://www.panosc.eu/training-catalogue/) by building an aggregator for these and similar platforms.
+    The project aims to enhance existing HEP Training-based training registries or catalogues like [ELIXIR HEP Training (life sciences)](https://heptraining.cern.ch/) and [PaN-Training (photon and neutron)](https://www.panosc.eu/training-catalogue/) by building an aggregator for these and similar platforms.
 
 Space (mTeSS)
-    A single TeSS instance can present multiple tailored spaces (catalogues) whose selections of training material are “views” on a global catalogue. 
+    A single HEP Training instance can present multiple tailored spaces (catalogues) whose selections of training material are “views” on a global catalogue. 
     Each community registers, maintains and curates their material for their members in their own virtual space in the common portal environment.
     See [Introduction to spaces](../spaces/intro-spaces) for details.
 
@@ -53,10 +53,10 @@ Group
     See [Introduction to groups](../groups/intro-groups) for details.
 
 TeSSHub
-    The strategic name for a TeSS instance with multiple [spaces](#term-Space-mTeSS) 
-    that can [exchange](#term-Exchange-TeSS-X) materials with other instances.
+    The strategic name for a HEP Training instance with multiple [spaces](#term-Space-mTeSS) 
+    that can [exchange](#term-Exchange-HEP Training-X) materials with other instances.
     The TeSSHub is one of the outputs from the mTeSS-X project, 
-    where [ELIXIR TeSS (life sciences)](https://tess.elixir-europe.org/) 
+    where [ELIXIR HEP Training (life sciences)](https://heptraining.cern.ch/) 
     and [PaN-Training (photon and neutron)](https://www.panosc.eu/training-catalogue/) 
     will be running multipe spaces from the same server, appearing as distinct catalogues, 
     and can share relevant materials. <br>
@@ -64,17 +64,17 @@ TeSSHub
     on a TeSSHub, providing them with their own registry, 
     without the need to host and maintain their own instance.  
 
-TeSS Platform
-    The main codebase which is used for development, written in Ruby on Rails. The code is open source and [available on GitHub](https://github.com/ElixirTeSS/TeSS) under a BSD 3-Clause licence. 
+HEP Training Platform
+    The main codebase which is used for development, written in Ruby on Rails. The code is open source and [available on GitHub](https://github.com/ElixirTeSS/HEP Training) under a BSD 3-Clause licence. 
 
 Training material
-    In the context of TeSS, a training material is a link to a single online training material sourced by a content provider (such as a text on a Web page, presentation, video) along with description and other meta information (e.g. ontological categorization, keywords). <br>
+    In the context of HEP Training, a training material is a link to a single online training material sourced by a content provider (such as a text on a Web page, presentation, video) along with description and other meta information (e.g. ontological categorization, keywords). <br>
     Materials can be added manually or automatically harvested from a provider's website.
     
 Workflow
-    Training workflows in TeSS are visual, step-by-step protocols that allow users to navigate materials in TeSS in topic- or task-related ways. 
+    Training workflows in HEP Training are visual, step-by-step protocols that allow users to navigate materials in HEP Training in topic- or task-related ways. 
     For example, they may encapsulate typical stages of particular kinds of data analysis (protein sequence analysis, structure analysis, etc.), where each stage/node in the workflow represents a given analysis step and links to the corresponding training resources. 
-    See [Workflows in TeSS](../content/workflows) for details.
+    See [Workflows in HEP Training](../content/workflows) for details.
 ```
 
 ## Materials
@@ -95,7 +95,7 @@ Resource Type
 
 Scientific Topics
     The scientific subject or field that the training material focuses on, for example, bioinformatics, genetics, biodiversity, genomics. 
-    In ELIXIR TeSS, this field uses the [EDAM ontology](https://edamontology.github.io/edam-browser/). 
+    In ELIXIR HEP Training, this field uses the [EDAM ontology](https://edamontology.github.io/edam-browser/). 
     In PaN-Training, this field uses the [PaNET ontology](https://github.com/pan-ontologies/PaNET).
 
 Keywords
@@ -146,7 +146,7 @@ Events
 
 Operations
     Functions that process a set of inputs and result in a set of outputs. 
-    In ELIXIR TeSS, this field uses the [EDAM ontology for Operation](https://www.ebi.ac.uk/ols4/ontologies/edam/classes/http%253A%252F%252Fedamontology.org%252Foperation_0004?lang=en). 
+    In ELIXIR HEP Training, this field uses the [EDAM ontology for Operation](https://www.ebi.ac.uk/ols4/ontologies/edam/classes/http%253A%252F%252Fedamontology.org%252Foperation_0004?lang=en). 
 
 ```
 
@@ -208,7 +208,7 @@ Credit or Recognition of Attendance
 
 External resources
     Include links to tools, policies, standards or databases to associate with this resource.
-    For ELIXIR TeSS, you can search [FAIRsharing](https://fairsharing.org/), the [ELIXIR Tools and Data Services Registry](http://bio.tools/), or enter a title and URL. 
+    For ELIXIR HEP Training, you can search [FAIRsharing](https://fairsharing.org/), the [ELIXIR Tools and Data Services Registry](http://bio.tools/), or enter a title and URL. 
 
 Cost basis
     Select the basis by which costs, if any, are applied. Select from:
@@ -249,7 +249,7 @@ Only show online events
     Hide events that are marked as Face-to-face. False by default.
     
 Show events/materials from all spaces
-    Show training that match your search criteria from all spaces on this TeSS instance, not just the current space. False by default.
+    Show training that match your search criteria from all spaces on this HEP Training instance, not just the current space. False by default.
 
 Show past events
     Show events where the date is in the past. False by default.
@@ -267,7 +267,7 @@ Show archived materials/learning paths/collections
 
 ## User profile
 
-Definitions of public user details associated with a TeSS use account.
+Definitions of public user details associated with a HEP Training use account.
 
 ```{glossary}
 
@@ -296,11 +296,11 @@ Contact email address
 
 ## Roles
 
-Definitions of user roles in TeSS. 
+Definitions of user roles in HEP Training. 
 
 ```{glossary}
 Administrator
-    The technical administrator, responsible for installation, configuration and maintenance of a TeSS instance.
+    The technical administrator, responsible for installation, configuration and maintenance of a HEP Training instance.
 
 Author
     Individuals and organisations involved in the preparation, creation or presentation of the published work.
@@ -312,13 +312,13 @@ Contributor
     Individuals and organisations that contributed to the published work but are not authors.
 
 Curator
-    An individual who has been granted permission to create a learning path in TeSS while following their community’s editorial process, or edit the materials associated with a content provider or node.
+    An individual who has been granted permission to create a learning path in HEP Training while following their community’s editorial process, or edit the materials associated with a content provider or node.
 
 Editor (of a content provider)
     A person with editing rights to a content provider.
 
 Owner
-    An individual who has created a material, topic or learning path in TeSS.
+    An individual who has created a material, topic or learning path in HEP Training.
 
 Space Manager
     The person responsible for managing a space within an instance.

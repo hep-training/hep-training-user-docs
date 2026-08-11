@@ -1,4 +1,4 @@
-# Documentation for TeSS Platform
+# Documentation for HEP Training Platform
 
 <https://elixirtess.github.io/docs/>
 

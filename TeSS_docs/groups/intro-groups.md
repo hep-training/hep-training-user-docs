@@ -6,7 +6,7 @@ A user of a group has access to every private space associated with that group.
 
 Each group has multiple owners. A owner can add and remove people to the group.
 
-To request a new group on TeSS for your use case:
+To request a new group on HEP Training for your use case:
 
 1. Select a TeSS instance for your request.
 2. Prepare the following details of the new group: a title, your username and the list of users/owners of your group.
