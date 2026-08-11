@@ -8,9 +8,9 @@ The ELIXIR TeSSHub is a public instance that supports the Spaces feature (launch
 ## Why register a space with a TeSSHub?
 
 - {fas}`clipboard-check;sd-text-success` Appears as its own distinct catalogue
-- {fas}`clipboard-check;sd-text-success` Can exchange materials with other HEP Training instances and spaces
-- {fas}`clipboard-check;sd-text-success` Support from the global HEP Training community
-- {fas}`clipboard-check;sd-text-success` Open and public[^freespace] or private (only people being in specific groups have access)
+- {fas}`clipboard-check;sd-text-success` Can exchange materials with other TeSS instances and spaces
+- {fas}`clipboard-check;sd-text-success` Support from the global TeSS community
+- {fas}`clipboard-check;sd-text-success` Open and public[^freespace] or private (only people in specific [groups](../groups/intro-groups) have access)
 - {fas}`clipboard-check;sd-text-success` No installation or server required
 - {fas}`clipboard-question;sd-text-warning`  Limited technical customisation options  
 
