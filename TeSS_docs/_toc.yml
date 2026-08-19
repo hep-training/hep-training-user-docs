@@ -13,6 +13,11 @@ parts:
     - file: overview/definitions
     - file: overview/what-we-catalogue
     - file: overview/fair
+  - caption: Roles
+    chapters:
+    - file: roles/administrator
+    - file: roles/trainer
+    - file: roles/content_provider
   - caption: Search
     chapters:
     - file: search/searching
