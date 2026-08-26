@@ -1,7 +1,7 @@
 # How to credit HEP Training when you make your own instance
 
 You are welcome to use the HEP Training platform software however you like within the terms of its licence. 
-However, we have an extensive community of users and developers which you are welcome to join. They can offer you support and guidance throughout the setup process and thereafter. We also welcome [contributions](https://github.com/ElixirTeSS/HEP Training/blob/master/CONTRIBUTING.md).
+However, we have an extensive community of users and developers which you are welcome to join. They can offer you support and guidance throughout the setup process and thereafter. We also welcome [contributions](https://github.com/ElixirTeSS/TeSS/blob/master/CONTRIBUTING.md).
 
 If you are maintaining an instance of HEP Training, or thinking of doing so, please [contact us](https://tess.elixir-europe.org/about/us#contact). We will help you to effectively credit the HEP Training developers and community.
 

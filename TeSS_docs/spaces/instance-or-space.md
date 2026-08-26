@@ -1,7 +1,7 @@
-# When to choose your own HEP Training instance or register a space in TeSSHub
+# When to choose your own TeSS instance or register a space in TeSSHub
 
 HEP Training is an open source, reusable software platform, and has been [deployed by several other communities across the globe](../overview/global). 
-However, with the launch of the [Spaces feature](intro-spaces), it is possible for a community to create their own tailored catalogue or "view" within an existing HEP Training instance. 
+However, with the launch of the [Spaces feature](intro-spaces), it is possible for a community to create their own tailored catalogue or "view" within an existing TeSS instance. 
 The ELIXIR TeSSHub is a public instance that supports the Spaces feature (launching soon).
 
 
@@ -15,14 +15,14 @@ The ELIXIR TeSSHub is a public instance that supports the Spaces feature (launch
 - {fas}`clipboard-question;sd-text-warning`  Limited technical customisation options  
 
 
-## Why create your own HEP Training instance?
+## Why create your own TeSS instance?
 
 - {fas}`clipboard-check;sd-text-success` Appears as its own distinct catalogue
-- {fas}`clipboard-check;sd-text-success` Can exchange materials with other HEP Training instances and spaces
+- {fas}`clipboard-check;sd-text-success` Can exchange materials with other TeSS instances and spaces
 - {fas}`clipboard-check;sd-text-success` Support from the global HEP Training community
 - {fas}`clipboard-check;sd-text-success` Open source software[^freeinstance] 
 - {fas}`clipboard-check;sd-text-success` Can be fully customised by your own development team
 - {fas}`clipboard-question;sd-text-warning` Requires installation and server administration (at your expense)
 
-[^freespace]: The ELIXIR TeSSHub does not charge for space creation but is dependent on overall funding. Other TeSSHubs (multi-space HEP Training instances) may vary. 
+[^freespace]: The ELIXIR TeSSHub does not charge for space creation but is dependent on overall funding. Other TeSSHubs (multi-space TeSS instances) may vary. 
 [^freeinstance]: The [HEP Training Platform software is open source](https://github.com/ElixirTeSS/TeSS) [(BSD 3-clause license)](https://heptraining.cern.ch/about/developers#api:~:text=available%20under%20the-,BSD%203%2DClause,-license.) but you must cover server and administration costs.

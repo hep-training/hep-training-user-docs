@@ -52,7 +52,7 @@ To perform a filtered search on a particular type of training:
 2. You can enter **keywords** in the search box above the results.
 3. You can **sort** results by date or title using the control on the left.
 4. You can **filter** results by multiple paramaters using the controls on the left.
-  - For example, search across all spaces in a HEP Training instance by clicking 'Show materials from all spaces'.
+  - For example, search across all spaces in HEP Training by clicking 'Show materials from all spaces'.
 5. You can move through the pages of results at the bottom of the page.
 
 Descriptions of the filters can be found on the [Definitions](../overview/definitions) page.

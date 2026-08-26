@@ -12,8 +12,8 @@ HEP Training is committed to the FAIR principles: making data findable, accessib
 {octicon}`mark-github` **Software**
 ^^^
 
-The source code for HEP Training [is available on GitHub](https://github.com/ElixirTeSS/HEP Training), under the [BSD 3-Clause](https://heptraining.cern.ch/about/developers#api:~:text=available%20under%20the-,BSD%203%2DClause,-license.) license. 
-We welcome [contributions](https://github.com/ElixirTeSS/HEP Training/blob/master/CONTRIBUTING.md).
+The source code for HEP Training [is available on GitHub](https://github.com/ElixirTeSS/TeSS), under the [BSD 3-Clause](https://heptraining.cern.ch/about/developers#api:~:text=available%20under%20the-,BSD%203%2DClause,-license.) license. 
+We welcome [contributions](https://github.com/ElixirTeSS/TeSS/blob/master/CONTRIBUTING.md).
 :::
 
 
@@ -71,9 +71,9 @@ If you already use the old API, technical information is still available in the 
 
 ## Developer guides
 
-There are additional guides for installing and configuring a HEP Training instance.
+There are additional guides for installing and configuring a TeSS instance.
 
-```{button-link} https://github.com/ElixirTeSS/HEP Training/tree/master/docs
+```{button-link} https://github.com/ElixirTeSS/TeSS/tree/master/docs
 :color: primary
 View the developer guides (on GitHub)
 ```

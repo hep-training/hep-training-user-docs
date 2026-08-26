@@ -80,7 +80,7 @@ Application Programming Interfaces, or APIs, typically have endpoint URLs that, 
 
 - [Eventbrite](https://eventbrite.com/) - for events
 - [Zenodo](https://zenodo.com/) - for materials
-- Other HEP Training instances - for events
+- Other TeSS instances - for events
 :::
 ::::
 

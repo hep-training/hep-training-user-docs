@@ -26,6 +26,8 @@ python -m pip install -r requirements.txt
 jupyter-book build TeSS_docs/
 ```
 
+To see it on localhost, use myst : `jupyter book init` and run `jupyter book start`
+
 If you are using Windows, replace the second line with:
 
 ```shell

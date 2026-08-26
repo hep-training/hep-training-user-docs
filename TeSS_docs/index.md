@@ -1,46 +1,44 @@
 # Welcome to the HEP Training documentation!
 
-This documentation is intended to provide help and information on how to use a training registry created on the HEP Training platform.
+This documentation is intended to provide help on how to use the HEP Training platform (heptraining.cern.ch).
 
 ## About HEP Training
-
 
 ::::{grid} 1 1 2 3
 :class-container: text-center
 :gutter: 3
 
 :::{grid-item-card}
-:link: overview/HEP Training
+:link: overview/tess
 :link-type: doc
 
-{fas}`panorama;sd-text-secondary` **Introduction**
+**Introduction**
 ^^^
 
-What is HEP Training
+The origin of HEP Training: TeSS
 :::
 
 :::{grid-item-card}
 :link: overview/global
 :link-type: doc
 
-{fas}`earth-europe;sd-text-secondary` **Global usage**
+**Global usage**
 ^^^
 
-Global usages of HEP Training
+Global usages of TeSS
 :::
 
 :::{grid-item-card}
 :link: overview/mtess-x
 :link-type: doc
 
-{fas}`boxes-stacked;sd-text-secondary` {fas}`arrows-turn-to-dots;sd-text-secondary` **mTeSS-X**
+**mTeSS-X**
 ^^^
 
 Multi-spaces and exchange
 :::
 
 ::::
-
 
 ## Getting started
 
@@ -52,18 +50,17 @@ Multi-spaces and exchange
 :link: search/searching
 :link-type: doc
 
-{fas}`magnifying-glass;sd-text-secondary` **Search**
+**Search**
 ^^^
 
 Searching for training resources, precise filtering for events or materials
 :::
 
-
 :::{grid-item-card}
 :link: accounts/user
 :link-type: doc
 
-{fas}`user-plus;sd-text-secondary` **Account creation**
+**Account creation**
 ^^^
 
 Creating a user account, setting up a content provider
@@ -73,7 +70,7 @@ Creating a user account, setting up a content provider
 :link: content/intro-content
 :link-type: doc
 
-{fas}`box-open;sd-text-secondary` **Content registration**
+**Content registration**
 ^^^
 
 Automatically or manually register events, materials or learning paths
@@ -84,7 +81,7 @@ Automatically or manually register events, materials or learning paths
 :link: spaces/intro-spaces
 :link-type: doc
 
-{fas}`boxes-stacked;sd-text-secondary` **Space creation**
+**Space creation**
 ^^^
 
 When to set up a HEP Training space, how to credit other spaces' materials
@@ -94,7 +91,7 @@ When to set up a HEP Training space, how to credit other spaces' materials
 :link: content/exchange
 :link-type: doc
 
-{fas}`arrows-turn-to-dots;sd-text-secondary` **Exchange content**
+**Exchange content**
 ^^^
 
 Filter and exchange materials automatically from another TeSSHub
@@ -104,7 +101,7 @@ Filter and exchange materials automatically from another TeSSHub
 :link: developers/code-data
 :link-type: doc
 
-{fas}`wrench;sd-text-secondary` **Widgets and API**
+**Widgets and API**
 ^^^
 
 Configure an API or widget to access materials

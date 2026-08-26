@@ -33,7 +33,7 @@ Exchange (HEP Training-X)
 
 Instance
     One installation of the HEP Training Platform, on a server, managed by a technical administrator. An instance may have multiple spaces, if this option has been enabled by the administrator.  <br>
-    Examples of HEP Training instances can be viewed on the [global usages page](global).
+    Examples of TeSS instances can be viewed on the [global usages page](global).
 
 Learning path
     A a pathway that guides learners through a set of modules (courses/materials) to be undertaken progressively (from lower- to higher-order thinking skills) to acquire the desired knowledge and skills on a subject by the end of the pathway. 
@@ -44,7 +44,7 @@ mTeSS-X
     The project aims to enhance existing HEP Training-based training registries or catalogues like [ELIXIR HEP Training (life sciences)](https://heptraining.cern.ch/) and [PaN-Training (photon and neutron)](https://www.panosc.eu/training-catalogue/) by building an aggregator for these and similar platforms.
 
 Space (mTeSS)
-    A single HEP Training instance can present multiple tailored spaces (catalogues) whose selections of training material are “views” on a global catalogue. 
+    A single TeSS instance can present multiple tailored spaces (catalogues) whose selections of training material are “views” on a global catalogue. 
     Each community registers, maintains and curates their material for their members in their own virtual space in the common portal environment.
     See [Introduction to spaces](../spaces/intro-spaces) for details.
 
@@ -53,7 +53,7 @@ Group
     See [Introduction to groups](../groups/intro-groups) for details.
 
 TeSSHub
-    The strategic name for a HEP Training instance with multiple [spaces](#term-Space-mTeSS) 
+    The strategic name for a TeSS instance with multiple [spaces](#term-Space-mTeSS) 
     that can [exchange](#term-Exchange-HEP Training-X) materials with other instances.
     The TeSSHub is one of the outputs from the mTeSS-X project, 
     where [ELIXIR HEP Training (life sciences)](https://heptraining.cern.ch/) 
@@ -65,7 +65,7 @@ TeSSHub
     without the need to host and maintain their own instance.  
 
 HEP Training Platform
-    The main codebase which is used for development, written in Ruby on Rails. The code is open source and [available on GitHub](https://github.com/ElixirTeSS/HEP Training) under a BSD 3-Clause licence. 
+    The main codebase which is used for development, written in Ruby on Rails. The code is open source and [available on GitHub](https://github.com/ElixirTeSS/TeSS) under a BSD 3-Clause licence. 
 
 Training material
     In the context of HEP Training, a training material is a link to a single online training material sourced by a content provider (such as a text on a Web page, presentation, video) along with description and other meta information (e.g. ontological categorization, keywords). <br>
@@ -249,7 +249,7 @@ Only show online events
     Hide events that are marked as Face-to-face. False by default.
     
 Show events/materials from all spaces
-    Show training that match your search criteria from all spaces on this HEP Training instance, not just the current space. False by default.
+    Show training that match your search criteria from all spaces on this TeSS instance, not just the current space. False by default.
 
 Show past events
     Show events where the date is in the past. False by default.
@@ -300,7 +300,7 @@ Definitions of user roles in HEP Training.
 
 ```{glossary}
 Administrator
-    The technical administrator, responsible for installation, configuration and maintenance of a HEP Training instance.
+    The technical administrator, responsible for installation, configuration and maintenance of a TeSS instance.
 
 Author
     Individuals and organisations involved in the preparation, creation or presentation of the published work.
